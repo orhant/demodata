@@ -1,0 +1,902 @@
+[
+	{
+		"Company": "Dui In LLC",
+		"Country": "Korea, South",
+		"Region": "Bremen",
+		"Pos": "-86.5893, -116.91012",
+		"Inventory": 398,
+		"Demand": 151,
+		"Production": 73
+	},
+	{
+		"Company": "Et Corporation",
+		"Country": "Jordan",
+		"Region": "Wie",
+		"Pos": "-5.26148, -137.45068",
+		"Inventory": 374,
+		"Demand": 140,
+		"Production": 334
+	},
+	{
+		"Company": "Gravida Nunc Sed LLP",
+		"Country": "Peru",
+		"Region": "SJ",
+		"Pos": "-69.44959, -21.572",
+		"Inventory": 430,
+		"Demand": 355,
+		"Production": 67
+	},
+	{
+		"Company": "Adipiscing Elit Consulting",
+		"Country": "Trinidad and Tobago",
+		"Region": "ON",
+		"Pos": "9.59644, 169.3026",
+		"Inventory": 87,
+		"Demand": 293,
+		"Production": 332
+	},
+	{
+		"Company": "Et Tristique Corporation",
+		"Country": "Kazakhstan",
+		"Region": "PA",
+		"Pos": "-18.96804, -29.12547",
+		"Inventory": 470,
+		"Demand": 214,
+		"Production": 320
+	},
+	{
+		"Company": "Ullamcorper Magna Ltd",
+		"Country": "Heard Island and Mcdonald Islands",
+		"Region": "Wie",
+		"Pos": "-8.79796, 102.59421",
+		"Inventory": 116,
+		"Demand": 466,
+		"Production": 145
+	},
+	{
+		"Company": "Sed Pede Associates",
+		"Country": "Lebanon",
+		"Region": "Lubuskie",
+		"Pos": "-62.23989, -152.38621",
+		"Inventory": 330,
+		"Demand": 201,
+		"Production": 352
+	},
+	{
+		"Company": "Risus Quisque LLC",
+		"Country": "Angola",
+		"Region": "PA",
+		"Pos": "-53.80151, 98.02818",
+		"Inventory": 236,
+		"Demand": 411,
+		"Production": 196
+	},
+	{
+		"Company": "Condimentum Eget Volutpat Institute",
+		"Country": "Reunion",
+		"Region": "South Australia",
+		"Pos": "14.23638, 129.48749",
+		"Inventory": 48,
+		"Demand": 454,
+		"Production": 213
+	},
+	{
+		"Company": "Penatibus Et Magnis Corp.",
+		"Country": "Venezuela",
+		"Region": "Limburg",
+		"Pos": "-12.71441, 90.21319",
+		"Inventory": 483,
+		"Demand": 33,
+		"Production": 138
+	},
+	{
+		"Company": "Tincidunt Congue Turpis Foundation",
+		"Country": "Ghana",
+		"Region": "WP",
+		"Pos": "-55.70528, 152.00956",
+		"Inventory": 218,
+		"Demand": 470,
+		"Production": 269
+	},
+	{
+		"Company": "Molestie In Limited",
+		"Country": "Slovenia",
+		"Region": "PI",
+		"Pos": "24.63666, -169.87828",
+		"Inventory": 289,
+		"Demand": 164,
+		"Production": 310
+	},
+	{
+		"Company": "Gravida Nunc Sed Corp.",
+		"Country": "Guernsey",
+		"Region": "BE",
+		"Pos": "21.50223, 0.92767",
+		"Inventory": 44,
+		"Demand": 104,
+		"Production": 337
+	},
+	{
+		"Company": "Scelerisque Sed Sapien Corp.",
+		"Country": "Zimbabwe",
+		"Region": "CM",
+		"Pos": "-35.96087, -57.08943",
+		"Inventory": 218,
+		"Demand": 450,
+		"Production": 451
+	},
+	{
+		"Company": "Nulla Eget Corporation",
+		"Country": "Cook Islands",
+		"Region": "CV",
+		"Pos": "-39.47829, 12.16926",
+		"Inventory": 5,
+		"Demand": 431,
+		"Production": 139
+	},
+	{
+		"Company": "Dolor Quam Inc.",
+		"Country": "Turkey",
+		"Region": "SL",
+		"Pos": "-17.96139, 167.5407",
+		"Inventory": 303,
+		"Demand": 467,
+		"Production": 492
+	},
+	{
+		"Company": "Mollis Lectus Incorporated",
+		"Country": "Guyana",
+		"Region": "Newfoundland and Labrador",
+		"Pos": "-85.50705, 81.66311",
+		"Inventory": 314,
+		"Demand": 203,
+		"Production": 188
+	},
+	{
+		"Company": "Integer Corporation",
+		"Country": "Virgin Islands, British",
+		"Region": "Utah",
+		"Pos": "-33.57339, -3.36276",
+		"Inventory": 383,
+		"Demand": 482,
+		"Production": 99
+	},
+	{
+		"Company": "Vitae Risus Duis Consulting",
+		"Country": "Kyrgyzstan",
+		"Region": "CA",
+		"Pos": "30.75876, -52.79382",
+		"Inventory": 243,
+		"Demand": 441,
+		"Production": 85
+	},
+	{
+		"Company": "Eu Sem Corporation",
+		"Country": "Montenegro",
+		"Region": "MT",
+		"Pos": "13.61628, 101.68917",
+		"Inventory": 277,
+		"Demand": 108,
+		"Production": 412
+	},
+	{
+		"Company": "Molestie Arcu Consulting",
+		"Country": "Norway",
+		"Region": "KK",
+		"Pos": "86.72857, -127.15695",
+		"Inventory": 456,
+		"Demand": 41,
+		"Production": 18
+	},
+	{
+		"Company": "Commodo Consulting",
+		"Country": "United Kingdom (Great Britain)",
+		"Region": "XV",
+		"Pos": "-3.54692, 171.32483",
+		"Inventory": 170,
+		"Demand": 394,
+		"Production": 91
+	},
+	{
+		"Company": "Urna Nec Corp.",
+		"Country": "Oman",
+		"Region": "BU",
+		"Pos": "-76.2693, 35.91325",
+		"Inventory": 333,
+		"Demand": 400,
+		"Production": 199
+	},
+	{
+		"Company": "Fringilla Cursus Purus Industries",
+		"Country": "Egypt",
+		"Region": "Noord Brabant",
+		"Pos": "-28.81855, 86.96145",
+		"Inventory": 283,
+		"Demand": 430,
+		"Production": 163
+	},
+	{
+		"Company": "Neque Tellus Imperdiet Associates",
+		"Country": "Marshall Islands",
+		"Region": "South Island",
+		"Pos": "-73.17939, -52.43698",
+		"Inventory": 160,
+		"Demand": 202,
+		"Production": 260
+	},
+	{
+		"Company": "Turpis Egestas Fusce Institute",
+		"Country": "Reunion",
+		"Region": "Ontario",
+		"Pos": "58.03354, -48.0457",
+		"Inventory": 361,
+		"Demand": 434,
+		"Production": 444
+	},
+	{
+		"Company": "Tempor Augue Foundation",
+		"Country": "Tunisia",
+		"Region": "Pays de la Loire",
+		"Pos": "-40.10485, -71.7675",
+		"Inventory": 97,
+		"Demand": 178,
+		"Production": 289
+	},
+	{
+		"Company": "Ut Cursus Foundation",
+		"Country": "Timor-Leste",
+		"Region": "Ist",
+		"Pos": "-12.49374, 130.05615",
+		"Inventory": 57,
+		"Demand": 333,
+		"Production": 381
+	},
+	{
+		"Company": "Etiam Ligula Associates",
+		"Country": "Ecuador",
+		"Region": "Madrid",
+		"Pos": "33.87122, -91.75539",
+		"Inventory": 67,
+		"Demand": 291,
+		"Production": 258
+	},
+	{
+		"Company": "Iaculis Ltd",
+		"Country": "Gambia",
+		"Region": "Metropolitana de Santiago",
+		"Pos": "-4.68586, 27.09357",
+		"Inventory": 368,
+		"Demand": 314,
+		"Production": 281
+	},
+	{
+		"Company": "Erat Foundation",
+		"Country": "Guatemala",
+		"Region": "CA",
+		"Pos": "36.04872, 114.63547",
+		"Inventory": 10,
+		"Demand": 349,
+		"Production": 296
+	},
+	{
+		"Company": "Posuere Inc.",
+		"Country": "Uganda",
+		"Region": "Upper Austria",
+		"Pos": "88.8716, -61.24872",
+		"Inventory": 267,
+		"Demand": 151,
+		"Production": 196
+	},
+	{
+		"Company": "Nunc Id Institute",
+		"Country": "Jamaica",
+		"Region": "AB",
+		"Pos": "-21.72369, 13.52098",
+		"Inventory": 27,
+		"Demand": 463,
+		"Production": 282
+	},
+	{
+		"Company": "Quisque Fringilla Institute",
+		"Country": "Saint Kitts and Nevis",
+		"Region": "ERM",
+		"Pos": "-55.96994, 156.01821",
+		"Inventory": 493,
+		"Demand": 164,
+		"Production": 304
+	},
+	{
+		"Company": "Mi Company",
+		"Country": "Turkmenistan",
+		"Region": "Île-de-France",
+		"Pos": "-85.3538, -23.53802",
+		"Inventory": 165,
+		"Demand": 56,
+		"Production": 317
+	},
+	{
+		"Company": "Mus Proin Vel Consulting",
+		"Country": "Sint Maarten",
+		"Region": "Pays de la Loire",
+		"Pos": "-7.21336, 170.39548",
+		"Inventory": 169,
+		"Demand": 232,
+		"Production": 500
+	},
+	{
+		"Company": "Ultricies Dignissim Corporation",
+		"Country": "Tajikistan",
+		"Region": "QLD",
+		"Pos": "-46.24133, 18.54882",
+		"Inventory": 259,
+		"Demand": 129,
+		"Production": 315
+	},
+	{
+		"Company": "Mauris Vel Associates",
+		"Country": "Tokelau",
+		"Region": "NI",
+		"Pos": "31.50776, -8.67198",
+		"Inventory": 338,
+		"Demand": 355,
+		"Production": 19
+	},
+	{
+		"Company": "Sem Industries",
+		"Country": "Angola",
+		"Region": "WL",
+		"Pos": "2.40484, -5.85617",
+		"Inventory": 489,
+		"Demand": 270,
+		"Production": 113
+	},
+	{
+		"Company": "Ultricies Institute",
+		"Country": "Portugal",
+		"Region": "Cantabria",
+		"Pos": "88.53148, -156.66291",
+		"Inventory": 150,
+		"Demand": 162,
+		"Production": 68
+	},
+	{
+		"Company": "Duis Risus PC",
+		"Country": "Moldova",
+		"Region": "HH",
+		"Pos": "22.44747, 119.0183",
+		"Inventory": 258,
+		"Demand": 369,
+		"Production": 352
+	},
+	{
+		"Company": "Sit Corp.",
+		"Country": "Armenia",
+		"Region": "Ist",
+		"Pos": "-5.35375, 65.6975",
+		"Inventory": 245,
+		"Demand": 50,
+		"Production": 189
+	},
+	{
+		"Company": "Cras Lorem Lorem PC",
+		"Country": "Anguilla",
+		"Region": "Berlin",
+		"Pos": "65.29735, -24.55261",
+		"Inventory": 299,
+		"Demand": 324,
+		"Production": 151
+	},
+	{
+		"Company": "Vestibulum Ut Ltd",
+		"Country": "Bolivia",
+		"Region": "CL",
+		"Pos": "20.69789, 64.95541",
+		"Inventory": 118,
+		"Demand": 441,
+		"Production": 343
+	},
+	{
+		"Company": "Leo Corporation",
+		"Country": "Albania",
+		"Region": "Pomorskie",
+		"Pos": "-24.52172, 160.17217",
+		"Inventory": 29,
+		"Demand": 377,
+		"Production": 296
+	},
+	{
+		"Company": "Ut Limited",
+		"Country": "Singapore",
+		"Region": "Vienna",
+		"Pos": "-29.77781, 165.53465",
+		"Inventory": 160,
+		"Demand": 427,
+		"Production": 431
+	},
+	{
+		"Company": "Nonummy Ut Industries",
+		"Country": "Puerto Rico",
+		"Region": "GA",
+		"Pos": "28.97748, -114.59073",
+		"Inventory": 476,
+		"Demand": 82,
+		"Production": 314
+	},
+	{
+		"Company": "Dignissim Company",
+		"Country": "Italy",
+		"Region": "Galicia",
+		"Pos": "-11.18239, -160.42792",
+		"Inventory": 309,
+		"Demand": 349,
+		"Production": 156
+	},
+	{
+		"Company": "Non Limited",
+		"Country": "Paraguay",
+		"Region": "DU",
+		"Pos": "75.39613, -105.97287",
+		"Inventory": 119,
+		"Demand": 368,
+		"Production": 215
+	},
+	{
+		"Company": "Donec Corp.",
+		"Country": "Gambia",
+		"Region": "Kogi",
+		"Pos": "79.95825, 34.24718",
+		"Inventory": 144,
+		"Demand": 421,
+		"Production": 202
+	},
+	{
+		"Company": "Arcu Inc.",
+		"Country": "Armenia",
+		"Region": "BE",
+		"Pos": "-60.58248, 23.29294",
+		"Inventory": 81,
+		"Demand": 118,
+		"Production": 337
+	},
+	{
+		"Company": "A Limited",
+		"Country": "Spain",
+		"Region": "Ceará",
+		"Pos": "-73.35155, 82.6881",
+		"Inventory": 307,
+		"Demand": 54,
+		"Production": 405
+	},
+	{
+		"Company": "Libero At LLC",
+		"Country": "Turks and Caicos Islands",
+		"Region": "AB",
+		"Pos": "25.72869, 143.94295",
+		"Inventory": 370,
+		"Demand": 434,
+		"Production": 51
+	},
+	{
+		"Company": "Lorem Vitae Odio Inc.",
+		"Country": "Azerbaijan",
+		"Region": "Puglia",
+		"Pos": "39.22229, -68.95569",
+		"Inventory": 253,
+		"Demand": 433,
+		"Production": 218
+	},
+	{
+		"Company": "Amet Nulla Company",
+		"Country": "United States",
+		"Region": "Kah",
+		"Pos": "6.31407, 172.16878",
+		"Inventory": 51,
+		"Demand": 236,
+		"Production": 8
+	},
+	{
+		"Company": "Eleifend Foundation",
+		"Country": "Norfolk Island",
+		"Region": "AK",
+		"Pos": "33.59431, 82.4137",
+		"Inventory": 471,
+		"Demand": 199,
+		"Production": 279
+	},
+	{
+		"Company": "Nisl Corporation",
+		"Country": "El Salvador",
+		"Region": "Queensland",
+		"Pos": "-73.35233, 22.64097",
+		"Inventory": 240,
+		"Demand": 85,
+		"Production": 324
+	},
+	{
+		"Company": "Enim Non Incorporated",
+		"Country": "Panama",
+		"Region": "Stirlingshire",
+		"Pos": "-78.66608, 176.26963",
+		"Inventory": 148,
+		"Demand": 447,
+		"Production": 28
+	},
+	{
+		"Company": "Mi Lorem Vehicula Company",
+		"Country": "Namibia",
+		"Region": "Ktn",
+		"Pos": "71.18287, 167.12499",
+		"Inventory": 364,
+		"Demand": 266,
+		"Production": 364
+	},
+	{
+		"Company": "Nisi Mauris Nulla Corporation",
+		"Country": "Angola",
+		"Region": "PE",
+		"Pos": "0.97966, -40.75984",
+		"Inventory": 385,
+		"Demand": 274,
+		"Production": 367
+	},
+	{
+		"Company": "Aliquet Limited",
+		"Country": "Egypt",
+		"Region": "Istanbul",
+		"Pos": "-30.34523, -60.19335",
+		"Inventory": 168,
+		"Demand": 360,
+		"Production": 266
+	},
+	{
+		"Company": "Lorem Corp.",
+		"Country": "Philippines",
+		"Region": "Vienna",
+		"Pos": "-32.86993, 47.12955",
+		"Inventory": 226,
+		"Demand": 271,
+		"Production": 117
+	},
+	{
+		"Company": "Elit Elit Ltd",
+		"Country": "United Kingdom (Great Britain)",
+		"Region": "Uttar Pradesh",
+		"Pos": "-58.21191, -13.5873",
+		"Inventory": 463,
+		"Demand": 336,
+		"Production": 59
+	},
+	{
+		"Company": "Felis Ullamcorper Viverra PC",
+		"Country": "Sudan",
+		"Region": "Paraíba",
+		"Pos": "-12.02541, 22.12499",
+		"Inventory": 304,
+		"Demand": 401,
+		"Production": 50
+	},
+	{
+		"Company": "Aliquam Gravida Ltd",
+		"Country": "Georgia",
+		"Region": "NI",
+		"Pos": "-62.62833, -164.79577",
+		"Inventory": 435,
+		"Demand": 359,
+		"Production": 194
+	},
+	{
+		"Company": "Dis Parturient Montes PC",
+		"Country": "United States Minor Outlying Islands",
+		"Region": "AB",
+		"Pos": "-0.74756, -172.10587",
+		"Inventory": 140,
+		"Demand": 215,
+		"Production": 45
+	},
+	{
+		"Company": "Nunc Sed Inc.",
+		"Country": "Togo",
+		"Region": "Lubelskie",
+		"Pos": "-7.24561, -15.9953",
+		"Inventory": 186,
+		"Demand": 100,
+		"Production": 474
+	},
+	{
+		"Company": "Lorem Semper Corp.",
+		"Country": "Azerbaijan",
+		"Region": "AB",
+		"Pos": "58.90997, 71.69984",
+		"Inventory": 351,
+		"Demand": 185,
+		"Production": 449
+	},
+	{
+		"Company": "Faucibus Morbi Industries",
+		"Country": "Bolivia",
+		"Region": "Małopolskie",
+		"Pos": "49.69971, 70.5076",
+		"Inventory": 250,
+		"Demand": 391,
+		"Production": 71
+	},
+	{
+		"Company": "Diam PC",
+		"Country": "Guinea-Bissau",
+		"Region": "LO",
+		"Pos": "-6.90522, 66.91223",
+		"Inventory": 85,
+		"Demand": 335,
+		"Production": 397
+	},
+	{
+		"Company": "Convallis Corporation",
+		"Country": "Western Sahara",
+		"Region": "OV",
+		"Pos": "-14.43626, 179.11229",
+		"Inventory": 162,
+		"Demand": 158,
+		"Production": 248
+	},
+	{
+		"Company": "Et Nunc Consulting",
+		"Country": "Bouvet Island",
+		"Region": "Leinster",
+		"Pos": "-24.66788, 117.13275",
+		"Inventory": 235,
+		"Demand": 123,
+		"Production": 287
+	},
+	{
+		"Company": "Tellus Non Magna Corporation",
+		"Country": "United Kingdom (Great Britain)",
+		"Region": "WV",
+		"Pos": "-69.2926, -95.44219",
+		"Inventory": 222,
+		"Demand": 42,
+		"Production": 32
+	},
+	{
+		"Company": "Eros Proin Ultrices Ltd",
+		"Country": "Korea, North",
+		"Region": "CV",
+		"Pos": "38.1965, 106.90791",
+		"Inventory": 155,
+		"Demand": 39,
+		"Production": 365
+	},
+	{
+		"Company": "Nec Mauris Industries",
+		"Country": "Slovenia",
+		"Region": "C",
+		"Pos": "-13.47331, 176.84929",
+		"Inventory": 139,
+		"Demand": 287,
+		"Production": 59
+	},
+	{
+		"Company": "Elit A Feugiat Associates",
+		"Country": "Madagascar",
+		"Region": "HE",
+		"Pos": "-15.90269, -70.86971",
+		"Inventory": 430,
+		"Demand": 273,
+		"Production": 399
+	},
+	{
+		"Company": "Curabitur Egestas Associates",
+		"Country": "Morocco",
+		"Region": "SJ",
+		"Pos": "-10.22738, -84.44282",
+		"Inventory": 161,
+		"Demand": 126,
+		"Production": 78
+	},
+	{
+		"Company": "Volutpat Nunc Sit Associates",
+		"Country": "Burkina Faso",
+		"Region": "PUG",
+		"Pos": "76.14646, -0.16051",
+		"Inventory": 292,
+		"Demand": 492,
+		"Production": 262
+	},
+	{
+		"Company": "Sagittis Duis Consulting",
+		"Country": "Portugal",
+		"Region": "WB",
+		"Pos": "-85.02938, 7.47198",
+		"Inventory": 305,
+		"Demand": 86,
+		"Production": 438
+	},
+	{
+		"Company": "Sed LLC",
+		"Country": "Afghanistan",
+		"Region": "AB",
+		"Pos": "-52.44268, 6.0568",
+		"Inventory": 457,
+		"Demand": 135,
+		"Production": 236
+	},
+	{
+		"Company": "Dictum Phasellus Ltd",
+		"Country": "Slovakia",
+		"Region": "SN",
+		"Pos": "19.0408, -89.08502",
+		"Inventory": 177,
+		"Demand": 297,
+		"Production": 394
+	},
+	{
+		"Company": "Vel Quam Industries",
+		"Country": "Spain",
+		"Region": "Washington",
+		"Pos": "10.24199, -8.39934",
+		"Inventory": 114,
+		"Demand": 214,
+		"Production": 59
+	},
+	{
+		"Company": "Faucibus Ut Nulla Company",
+		"Country": "France",
+		"Region": "BR",
+		"Pos": "-61.26548, -94.39102",
+		"Inventory": 120,
+		"Demand": 231,
+		"Production": 143
+	},
+	{
+		"Company": "Morbi Tristique Limited",
+		"Country": "Qatar",
+		"Region": "Alsace",
+		"Pos": "79.95126, -37.69686",
+		"Inventory": 75,
+		"Demand": 200,
+		"Production": 198
+	},
+	{
+		"Company": "Sit Amet Consectetuer Consulting",
+		"Country": "United Arab Emirates",
+		"Region": "SR",
+		"Pos": "-62.68102, 96.78764",
+		"Inventory": 475,
+		"Demand": 308,
+		"Production": 168
+	},
+	{
+		"Company": "Sodales Corp.",
+		"Country": "Ecuador",
+		"Region": "Västra Götalands län",
+		"Pos": "-17.25825, 37.69643",
+		"Inventory": 125,
+		"Demand": 337,
+		"Production": 331
+	},
+	{
+		"Company": "Consectetuer Adipiscing Incorporated",
+		"Country": "Denmark",
+		"Region": "SC",
+		"Pos": "-43.71354, -77.74995",
+		"Inventory": 456,
+		"Demand": 306,
+		"Production": 433
+	},
+	{
+		"Company": "Amet Massa Industries",
+		"Country": "Iraq",
+		"Region": "WP",
+		"Pos": "-36.21928, -117.10058",
+		"Inventory": 432,
+		"Demand": 333,
+		"Production": 224
+	},
+	{
+		"Company": "Feugiat Nec LLC",
+		"Country": "Guernsey",
+		"Region": "Andalucía",
+		"Pos": "-75.07966, -175.42012",
+		"Inventory": 100,
+		"Demand": 431,
+		"Production": 333
+	},
+	{
+		"Company": "Ac Urna Corporation",
+		"Country": "Faroe Islands",
+		"Region": "MI",
+		"Pos": "-71.73775, -87.37185",
+		"Inventory": 266,
+		"Demand": 307,
+		"Production": 120
+	},
+	{
+		"Company": "Nulla Corp.",
+		"Country": "Faroe Islands",
+		"Region": "NE",
+		"Pos": "78.46711, 17.59569",
+		"Inventory": 202,
+		"Demand": 472,
+		"Production": 449
+	},
+	{
+		"Company": "Morbi Quis Urna Corporation",
+		"Country": "El Salvador",
+		"Region": "ON",
+		"Pos": "6.83598, 83.19165",
+		"Inventory": 299,
+		"Demand": 31,
+		"Production": 289
+	},
+	{
+		"Company": "Lorem Ipsum LLP",
+		"Country": "Anguilla",
+		"Region": "DE",
+		"Pos": "-27.99386, -153.30282",
+		"Inventory": 460,
+		"Demand": 145,
+		"Production": 89
+	},
+	{
+		"Company": "Laoreet Posuere Enim Foundation",
+		"Country": "Myanmar",
+		"Region": "Western Australia",
+		"Pos": "47.33635, -30.34337",
+		"Inventory": 133,
+		"Demand": 45,
+		"Production": 452
+	},
+	{
+		"Company": "Ipsum Porta Elit Inc.",
+		"Country": "Svalbard and Jan Mayen Islands",
+		"Region": "Connacht",
+		"Pos": "43.16996, 122.4391",
+		"Inventory": 437,
+		"Demand": 440,
+		"Production": 304
+	},
+	{
+		"Company": "Quam Elementum PC",
+		"Country": "Zimbabwe",
+		"Region": "Wie",
+		"Pos": "17.24737, -153.38233",
+		"Inventory": 209,
+		"Demand": 80,
+		"Production": 440
+	},
+	{
+		"Company": "A Corporation",
+		"Country": "China",
+		"Region": "C",
+		"Pos": "-22.51067, 154.68611",
+		"Inventory": 297,
+		"Demand": 428,
+		"Production": 245
+	},
+	{
+		"Company": "Elit Dictum Eu PC",
+		"Country": "Isle of Man",
+		"Region": "Minas Gerais",
+		"Pos": "61.68054, -81.39488",
+		"Inventory": 73,
+		"Demand": 15,
+		"Production": 435
+	},
+	{
+		"Company": "Donec Dignissim PC",
+		"Country": "Sint Maarten",
+		"Region": "Utah",
+		"Pos": "-38.06687, 170.14957",
+		"Inventory": 446,
+		"Demand": 35,
+		"Production": 24
+	},
+	{
+		"Company": "Vitae Aliquet Nec Associates",
+		"Country": "Philippines",
+		"Region": "WI",
+		"Pos": "-65.00347, 85.80347",
+		"Inventory": 5,
+		"Demand": 323,
+		"Production": 303
+	}
+]
