@@ -9,12 +9,12 @@
 		"Production": 73
 	},
 	{
-		"Company": "Et Corporation",
+		"Company": "Boston",
 		"Country": "Jordan",
 		"Region": "Wie",
-		"Pos": "-5.26148, -137.45068",
+		"Pos": "42.3132882, -71.1972459",
 		"Inventory": 374,
-		"Demand": 140,
+		"Demand": 124,
 		"Production": 334
 	},
 	{
